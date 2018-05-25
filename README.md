@@ -8,3 +8,4 @@ Descrição do projeto: com o auxílio de algoritmos computacionais para receber
 -TUTORIAL:
 
 O tutorial utilizado foi do seguinte link: https://www.youtube.com/watch?v=ImY-H7VJjwE&t=45s sendo realizadas mais de 5 aulas desse tutorial. O objetivo alcançado era aprender a montar um layout básico para a aplicação
+![Tutorial](Tutorial.png)
