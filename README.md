@@ -1,9 +1,9 @@
-# Hans_Filtros_digitais_de_microcontroladores
-Objetivo: Desenvolver o código capaz de reproduzir o comportamento de filtros comuns, como passa baixa e passa alta.
+# Hans_Filtro_Passa_Faixa
+Objetivo: Desenvolver o código capaz de reproduzir o comportamento de filtros comuns, como passa baixa.
 
 Motivação do projeto: devido a normal contaminação de sinais nos microcontroladores de maneira geral, um filtro digital de sinais é cada vez mais necessário para a separação de sinais e a restauração do sinal.
 
-Descrição do projeto: com o auxílio de algoritmos computacionais para receber sinais e fazer a retirada de ruídos sem perder amostras para não provocar uma possível distorção do sinal. O código será feito utilizando linguagem de programação orientada ao objeto.
+Descrição do projeto: com o auxílio de algoritmos computacionais para receber os valores das impedâncias do circuito e calcular as frequências de ressonância e de corte do circuito. O código será feito utilizando linguagem de programação orientada ao objeto.
 
 -TUTORIAL:
 
