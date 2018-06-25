@@ -1,0 +1,9 @@
+digraph "Filtro_Passa_Faixa.App.App"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Filtro_Passa_Faixa.App.App",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="Filtro_Passa_Faixa.App.On\lSuspending",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_filtro___passa___faixa_1_1_app.html#a222380c679739f0449c30054892a7628",tooltip="Chamado quando a execução do aplicativo está sendo suspensa. O estado do aplicativo é salvo sem saber..."];
+}
